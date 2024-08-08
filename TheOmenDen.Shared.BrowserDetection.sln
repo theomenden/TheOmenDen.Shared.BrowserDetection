@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheOmenDen.Shared.BrowserDetection", "TheOmenDen.Shared.BrowserDetection\TheOmenDen.Shared.BrowserDetection.csproj", "{13118207-101B-47D4-A097-255DE852AC7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13118207-101B-47D4-A097-255DE852AC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13118207-101B-47D4-A097-255DE852AC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13118207-101B-47D4-A097-255DE852AC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13118207-101B-47D4-A097-255DE852AC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A86079C4-81C4-4A50-A201-B223CDD7D344}
+	EndGlobalSection
+EndGlobal
